@@ -5,7 +5,7 @@ Work in progress...
 ToDo:
 
 * Get the "OK" button to close the dialog
-* Refine what journal entries get captured
+* Refine what system log entries get sent
 * Change how logs are passed to pbcli 
 
 ![screencap](screenshot.png)
